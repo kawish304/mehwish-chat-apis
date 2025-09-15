@@ -1,0 +1,2 @@
+  -H "X-API-Key: your_key" >
+  -d "{\"prompt\": \"Hello\"}" 

@@ -1,0 +1,18 @@
+{
+  "weather": "your_weatherapi_key",
+  "news": "your_newsapi_key",
+  "islamic": "your_islamicapi_key",
+  "crypto": "your_cryptocurrencyapi_key",
+  "stock": "your_stockapi_key",
+  "youtube": "your_youtubeapi_key",
+  "facebook": "your_facebookapi_key",
+  "linkedin": "your_linkedinapi_key",
+  "amazon": "your_amazonapi_key",
+  "alibaba": "your_alibabaapi_key",
+  "medical": "your_medicalapi_key",
+  "gem": "your_gemapi_key",
+  "bitcoin": "your_bitcoinapi_key",
+  "banking": "your_bankingapi_key",
+  "llama": "your_llamaapi_key",
+  "gpt": "your_gptapi_key"
+}

@@ -1,0 +1,13 @@
+# Connect to EC2 instance
+ssh -i your-key.pem ubuntu@your-ec2-ip
+
+# Install dependencies
+sudo apt update
+sudo apt install python3-pip python3-venv nginx
+
+# Deploy application
+git clone https://github.com/kawish304/mehwish-chat-api.git
+cd mehwish-chat-api
+
+# Setup systemd service
+sudo nano /etc/systemd/system/mehwish-api.service
